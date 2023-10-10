@@ -1,6 +1,6 @@
 # data_insertion
 
-trying to insert csv or other form of data through the python code to various db's 
+trying to insert csv form of data through the python code to various Databases.
 
-MSSQL
-Snowflake
+1) MSSQL
+2) Snowflake
